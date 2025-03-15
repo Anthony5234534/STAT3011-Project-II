@@ -2,10 +2,11 @@
 
 ## What we need to do in the project 
 
-1. K mean cluster
-2. BG/NBD prediction and check RSS of linear vs BG/NBD
+1. K mean cluster (K_mean_cluster.ipynb)
+2. BG/NBD prediction 
+3. check RSS of linear vs BG/NBD
 3. Ppt
-4. Report
+4. Report 
 5. Weekness of liner regression in orginal (multimulticollinearity)
 
 ## To do list in 14/3 meeting 
