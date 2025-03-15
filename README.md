@@ -2,19 +2,25 @@
 
 ## What we need to do in the project 
 
-1. K mean cluster (K_mean_cluster.ipynb)
+1. K mean cluster: 
+https://colab.research.google.com/drive/1BDwSYSe0pV54D82GvuhLNLtLdJA7r75c?usp=sharing
 2. BG/NBD prediction 
+https://colab.research.google.com/drive/13C97XdGpo2Ygg7_cbXPW55PjvPzos-Ru?usp=sharing
 3. check RSS of linear vs BG/NBD
+https://colab.research.google.com/drive/11dbRl0uJgaU4UXkp3nzmPFgrQ6ND8my3?usp=sharing
 3. Ppt
+<This should be attached ppt link>
 4. Report 
-5. Weekness of liner regression in orginal (multimulticollinearity)
+https://colab.research.google.com/drive/1za_VXRPzh8WYlDsY31Q2RFQBn6snY55I?usp=sharing
+5. Weekness of liner regression(multimulticollinearity)
+https://colab.research.google.com/drive/1uPvTRdb29llPlGVjVMCr77E2SgLWWrBW?usp=sharing
 
 ## To do list in 14/3 meeting 
 
 1. K mean cluster have planned 
 2. check RSS of linear vs BG/NBD (delete outline to check accuracy only, aim: make the RSS of BG/NBD must better) (Anthony)
 3, Weekness of linear (VIF, correlation matrix,...) 
-4. Ppt :  <This should be attached ppt link>
+4. Ppt :  
 5. Report 
 
 ## Useful link
