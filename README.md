@@ -8,11 +8,10 @@ https://colab.research.google.com/drive/1BDwSYSe0pV54D82GvuhLNLtLdJA7r75c?usp=sh
 https://colab.research.google.com/drive/13C97XdGpo2Ygg7_cbXPW55PjvPzos-Ru?usp=sharing
 3. check RSS of linear vs BG/NBD
 https://colab.research.google.com/drive/11dbRl0uJgaU4UXkp3nzmPFgrQ6ND8my3?usp=sharing
-3. Ppt
-<This should be attached ppt link>
-4. Report 
+4. Ppt <This should be attached ppt link>
+5. Report 
 https://colab.research.google.com/drive/1za_VXRPzh8WYlDsY31Q2RFQBn6snY55I?usp=sharing
-5. Weekness of liner regression(multimulticollinearity)
+6. Weekness of liner regression(multimulticollinearity)
 https://colab.research.google.com/drive/1uPvTRdb29llPlGVjVMCr77E2SgLWWrBW?usp=sharing
 
 ## To do list in 14/3 meeting 
