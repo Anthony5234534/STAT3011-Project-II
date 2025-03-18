@@ -14,6 +14,8 @@ https://colab.research.google.com/drive/11dbRl0uJgaU4UXkp3nzmPFgrQ6ND8my3?usp=sh
 6. Weekness of liner regression(multimulticollinearity)
 https://colab.research.google.com/drive/1uPvTRdb29llPlGVjVMCr77E2SgLWWrBW?usp=sharing
 
+Reference of ppt: https://github.com/basel-ay/Customer-Lifetime-Value-Prediction/blob/main/README.md
+
 ## To do list in 14/3 meeting 
 
 1. K mean cluster have planned 
