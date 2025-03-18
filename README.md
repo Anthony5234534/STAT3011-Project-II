@@ -18,8 +18,8 @@ Reference of ppt: https://github.com/basel-ay/Customer-Lifetime-Value-Prediction
 
 ## Things concluded in 18/3 meeting 
 ### Schedule
-report ddl: 21/3 /
-ppt ddl: 23/3 23:59 (Every one check if ppt is ok after 23/3 23:59) /
+report ddl: 21/3 ..
+ppt ddl: 23/3 23:59 (Every one check if ppt is ok after 23/3 23:59) ..
 presentation rehearsal: 24/3 16:30
 
 ## Useful link
