@@ -16,13 +16,11 @@ https://colab.research.google.com/drive/1uPvTRdb29llPlGVjVMCr77E2SgLWWrBW?usp=sh
 
 Reference of ppt: https://github.com/basel-ay/Customer-Lifetime-Value-Prediction/blob/main/README.md
 
-## To do list in 14/3 meeting 
-
-1. K mean cluster have planned 
-2. check RSS of linear vs BG/NBD (delete outline to check accuracy only, aim: make the RSS of BG/NBD must better)
-3. Weekness of linear (VIF, correlation matrix,...) 
-4. Ppt   
-5. Report 
+## Things concluded in 18/3 meeting 
+### Schedule
+report ddl: 21/3 
+ppt ddl: 23/3 23:59 (Every one check if ppt is ok after 23/3 23:59) 
+presentation rehearsal: 24/3 16:30
 
 ## Useful link
 
