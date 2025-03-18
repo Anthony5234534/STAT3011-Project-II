@@ -10,7 +10,7 @@ https://colab.research.google.com/drive/13C97XdGpo2Ygg7_cbXPW55PjvPzos-Ru?usp=sh
 https://colab.research.google.com/drive/11dbRl0uJgaU4UXkp3nzmPFgrQ6ND8my3?usp=sharing
 4. Ppt <This should be attached ppt link>
 5. Report 
-https://colab.research.google.com/drive/1za_VXRPzh8WYlDsY31Q2RFQBn6snY55I?usp=sharing
+[https://colab.research.google.com/drive/1za_VXRPzh8WYlDsY31Q2RFQBn6snY55I?usp=sharing](https://colab.research.google.com/drive/1KOy5PpvtQQ4t81w-c3TyVjrZSDIcuekA?usp=sharing)
 6. Weekness of liner regression(multimulticollinearity)
 https://colab.research.google.com/drive/1uPvTRdb29llPlGVjVMCr77E2SgLWWrBW?usp=sharing
 
