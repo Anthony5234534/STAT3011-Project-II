@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1BDwSYSe0pV54D82GvuhLNLtLdJA7r75c?usp=sh
 https://colab.research.google.com/drive/13C97XdGpo2Ygg7_cbXPW55PjvPzos-Ru?usp=sharing
 3. check RSS of linear vs BG/NBD
 https://colab.research.google.com/drive/11dbRl0uJgaU4UXkp3nzmPFgrQ6ND8my3?usp=sharing
-4. Ppt <This should be attached ppt link>
+4. Ppt <This should be attached ppt link> https://mycuhk-my.sharepoint.com/:p:/r/personal/1155193808_link_cuhk_edu_hk/Documents/Desktop/Green%20Brown%20Modern%20Market%20Analysis%20Presentation.pptx?d=wa81f3505681d41ed84283b5c3b249ef6&csf=1&web=1&e=bZ3rRk
 5. Report 
 [https://colab.research.google.com/drive/1za_VXRPzh8WYlDsY31Q2RFQBn6snY55I?usp=sharing](https://colab.research.google.com/drive/1KOy5PpvtQQ4t81w-c3TyVjrZSDIcuekA?usp=sharing)
 6. Weekness of liner regression(multimulticollinearity)
