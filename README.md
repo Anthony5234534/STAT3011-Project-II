@@ -1,7 +1,7 @@
 # STAT3011 Project II 
 
 ## Problem statement
-Predicting customer future 3 month CLV
+Predicting future 3 month CLV of customer
 
 ## Final report include 
 1. Original solution (linear regression model)
