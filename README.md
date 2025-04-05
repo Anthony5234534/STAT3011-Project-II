@@ -3,7 +3,7 @@
 ## Problem statement
 Predicting customer future 3 month CLV
 
-## Section include 
+## Final report include 
 1. Original solution (linear regression model)
 2. Weekness of linear regression model
 3. Improvement of BGNBD with gamma gamma model 
