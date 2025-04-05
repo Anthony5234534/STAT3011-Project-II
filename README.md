@@ -7,4 +7,4 @@ Predicting customer future 3 month CLV
 1. Original solution (linear regression model)
 2. Weekness of linear regression model
 3. Improvement of BGNBD with gamma gamma model 
-4. K mean cluster to find our target customer 
+4. Using K mean cluster to find our target customer 
