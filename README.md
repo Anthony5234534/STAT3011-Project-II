@@ -9,4 +9,4 @@ Predicting future 3 month CLV of customer
 3. Improvement of BGNBD with gamma gamma model 
 4. Using K mean cluster to find our target customer 
 
-**© All Rights Reserved**​
+*All Rights Reserved*
